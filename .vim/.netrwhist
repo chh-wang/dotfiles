@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/zokoo/.vim'
+let g:netrw_dirhist_6='/home/zokoo/.vim/plugin'
+let g:netrw_dirhist_5='/home/zokoo/.vim'
+let g:netrw_dirhist_4='/home/zokoo'
+let g:netrw_dirhist_3='/home/zokoo/mnt/wsrc/tmp'
+let g:netrw_dirhist_2='/home/zokoo/mnt/cam'
+let g:netrw_dirhist_1='/home/zokoo/mnt'
