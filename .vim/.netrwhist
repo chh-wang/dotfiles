@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/etc/ld.so.conf.d'
+let g:netrw_dirhist_6='/home/zokoo/software/vim/vim-8.2.2467/src'
+let g:netrw_dirhist_5='/home/zokoo/software/vim/vim-8.2.2467'
+let g:netrw_dirhist_4='/home/zokoo/software/vim/vim-8.2.2467/src'
+let g:netrw_dirhist_3='/home/zokoo/software/vim/vim-8.2.2467'
+let g:netrw_dirhist_2='/home/zokoo/software/vim/vim-8.2.2467/src'
+let g:netrw_dirhist_1='/home/zokoo/software/vim/vim-8.2.2467'
