@@ -26,7 +26,7 @@ Plug 'tpope/vim-sensible'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'preservim/nerdtree'
 Plug 'jistr/vim-nerdtree-tabs'
-Plug 'Yggdroot/LeaderF'
+" Plug 'Yggdroot/LeaderF'
 Plug 'fholgado/minibufexpl.vim'
 Plug 'tpope/vim-commentary'
 Plug 'vim-scripts/a.vim'
