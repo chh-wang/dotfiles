@@ -123,3 +123,4 @@ dotcfghome=$HOME/.dotcfg
 alias dfcfg="git --git-dir=$dotcfghome --work-tree=$HOME"
 
 export DISPLAY=192.168.1.16:0.0
+
